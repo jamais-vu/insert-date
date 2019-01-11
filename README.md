@@ -1,17 +1,16 @@
 # insert-date
 
 Sublime Text 3 plugin to insert the current local date or time at the location 
-of the first cursor. This will replace any selected text. Both the date and the
-time have a space after them.
+of the first cursor. This will replace any selected text. At the moment there
+is only a Windows default keymap.
 
 **Installation**:<br>
 Locate your Sublime Text folder and clone this repository to `/Data/Packages`.
 
 **Usage**:<br>
 Date: `ctrl+alt+shift+d`. Date is formatted `YYYY-MM-DD `.<br>
-Time: `ctrl+alt+shift+t`. Time is formatted `HH:MM `.
-
-At the moment there is only a Windows default keymap.
+Time: `ctrl+alt+shift+t`. Time is formatted `HH:MM `. <br>
+Both the date and the time have a space at the end.
 
 My first Sublime plugin. I wanted a simple way to insert the time or date when
 I am writing notes. The Package Control website was experiencing an unknown 
