@@ -1,4 +1,4 @@
 [
-    { "keys": ["ctrl+alt+shift+d"], "command": "date" },
-    { "keys": ["ctrl+alt+shift+t"], "command": "time" }
+    { "keys": ["alt+shift+d"], "command": "date" },
+    { "keys": ["alt+shift+t"], "command": "time" }
 ]
