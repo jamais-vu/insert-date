@@ -11,7 +11,7 @@ To uninstall, delete the folder `Sublime/Data/Packages/insert-date`.
 
 ## Usage
 Date: `ctrl+alt+shift+d`. Date is formatted `YYYY-MM-DD `.<br>
-Time: `ctrl+alt+shift+t`. Time is formatted `HH:MM `. <br>
+Time: `ctrl+alt+shift+t`. Time is formatted `HH:MM ` using the 24 hr clock. <br>
 Both the date and the time have a space at the end.
 
 ## Notes and Acknowledgement
