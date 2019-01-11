@@ -3,7 +3,7 @@ import sublime_plugin
 import datetime
 
 # Sublime Text supports multiple cursors in a single file, so we use 
-# self.view.sel()[0].begin() to get the location of the first cursor.
+# self.view.sel()[0] to get the location of the first cursor.
 
 class DateCommand(sublime_plugin.TextCommand):
     def run(self, edit):
