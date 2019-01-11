@@ -1,0 +1,4 @@
+[
+    { "keys": ["alt+shift+d"], "command": "date" },
+    { "keys": ["alt+shift+t"], "command": "time" }
+]
