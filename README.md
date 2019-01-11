@@ -5,7 +5,8 @@ of the first cursor. This will replace any selected text. At the moment there
 is only a Windows default keymap.
 
 ### Installation
-Locate your Sublime Text folder and clone this repository to `/Data/Packages`.
+Locate your Sublime Text folder and clone this repository to 
+`/Data/Packages`.<br>
 To uninstall, delete the folder `/Data/Packages/insert-date`.
 
 ### Usage
