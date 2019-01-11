@@ -13,5 +13,5 @@ At the moment there is only a Windows default keymap.
 My first Sublime plugin. I wanted a simple way to insert the time or date when
 I am writing notes. The Package Control website was experiencing an unknown 
 error so I had to write my own. 
-This tutorial https://cnpagency.com/blog/creating-sublime-text-3-plugins-part-1/ 
+[This tutorial](https://cnpagency.com/blog/creating-sublime-text-3-plugins-part-1/ "Creating Sublime Text 3 Plugins, by Sam Mello) 
 helped me get started.
