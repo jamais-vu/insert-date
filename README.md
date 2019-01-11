@@ -1,8 +1,8 @@
 # insert-date
 
 Sublime Text 3 plugin to insert the current local date or time at the location 
-of the first cursor. This will replace any selected text. Both the time and the
-date have a space after them.
+of the first cursor. This will replace any selected text. Both the date and the
+time have a space after them.
 
 Usage:<br>
 Date: `ctrl+alt+shift+d`. Date is formatted `YYYY-MM-DD `.<br>
