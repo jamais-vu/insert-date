@@ -3,25 +3,23 @@
 A Sublime Text 3 plugin to insert the current local date or time at the cursor. 
 
 ## Installation
-To install the plugin, clone this repository to your Sublime Text `\Packages`
+To install the plugin, clone this repository to your Sublime Text `Packages`
 directory. The plugin will then be active. There is no need to restart 
 Sublime.
-
-#### Where is my Packages directory?
 
 If you have trouble locating your Packages directory, open Sublime, and in the 
 menu bar select `Preferences` then `Browse Packages...` to open the Packages 
 directory. Here are the usual locations for each operating system:
 
-- ##### Windows
-   Installed:`C:\Users\<your username>\AppData\Roaming\Sublime Text 3\Packages`  
-   Portable: `<path>\Sublime Text 3\Data\Packages`
+**Windows**  
+Installed: `C:\Users\<your username>\AppData\Roaming\Sublime Text 3\Packages`  
+Portable: `<path>\Sublime Text 3\Data\Packages`
  
-- ##### OS X
-    `~/Library/Application Support/Sublime Text 3/Packages`
+**OS X**  
+`~/Library/Application Support/Sublime Text 3/Packages`
  
-- ##### Linux 
-   `~/.config/sublime-text-3/Packages/`
+**Linux**  
+`~/.config/sublime-text-3/Packages/`
 
 If you have trouble locating your Packages directory, open Sublime, and in the 
 menu bar select `Preferences` then `Browse Packages...` to open the Packages 
@@ -30,7 +28,6 @@ directory.
 ### Uninstall
 
 Delete the directory `<path>\Packages\insert-date`.
-
 
 ## Usage
 The following key bindings will insert the date or time at the position of
