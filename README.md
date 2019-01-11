@@ -6,8 +6,8 @@ is only a Windows default keymap.
 
 ### Installation
 Locate your Sublime Text folder and clone this repository to 
-`/Data/Packages`.<br>
-To uninstall, delete the folder `/Data/Packages/insert-date`.
+`Sublime/Data/Packages`.<br>
+To uninstall, delete the folder `Sublime/Data/Packages/insert-date`.
 
 ### Usage
 Date: `ctrl+alt+shift+d`. Date is formatted `YYYY-MM-DD `.<br>
