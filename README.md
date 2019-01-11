@@ -4,6 +4,9 @@ Sublime Text 3 plugin to insert the current local date or time at the location
 of the first cursor. This will replace any selected text. Both the date and the
 time have a space after them.
 
+**Installation**:<br>
+Locate your Sublime Text folder and clone this repository to `/Data/Packages`.
+
 **Usage**:<br>
 Date: `ctrl+alt+shift+d`. Date is formatted `YYYY-MM-DD `.<br>
 Time: `ctrl+alt+shift+t`. Time is formatted `HH:MM `.
