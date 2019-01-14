@@ -2,7 +2,7 @@
 
 A Sublime Text 3 plugin to insert the current date and time at the cursor. 
 
-## Installation
+# Installation
 To install the plugin, clone this repository to your Sublime Text `Packages`
 directory. The plugin will then be active. There is no need to restart 
 Sublime.
@@ -25,7 +25,7 @@ Portable: `<path>\Sublime Text 3\Data\Packages`
 
 Delete the directory `<path>\Packages\insert-date`.
 
-## Usage
+# Usage
 Use the key bindings to insert the current local date or time at the cursor. 
 This will replace any selected text. If there are multiple cursors, the 
 insert is done at the location of the first cursor.
@@ -39,7 +39,7 @@ The inserted text remains selected; you will have to manually deselect it to
 continue typing. [This inconvenience will be fixed](
 https://github.com/jamais-vu/insert-date/issues/1#issue-398226790).
 
-## Notes and Acknowledgement
+# Notes and Acknowledgement
 My first Sublime plugin. I wanted a simple way to insert the time or date when
 I am writing in my journal. The Sublime Package Control website was experiencing
 an unknown error so I chose to make my own plugin. 
